@@ -1,6 +1,8 @@
 Lauren Horton
 CS 7343
 
+Readme for Program 3
+
 To compile and run code:
     I was using command prompt to run the following commands:
     g++ *.cpp               // compiles
